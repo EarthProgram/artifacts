@@ -1,0 +1,37 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://www.w3id.org/earth/iid/v1",
+    "https://unfccc.int.example.com/ns/2022/rec/v1",
+  ],
+  "id": "https://hydroelec.example.com/projects/1",
+  "type": "REC2022",
+  "producer": "did:example:AAAAC3NzaC1lZDI1NTE5AAAAICwtd+9EJPeiBDh37Ffi6uJ6grYqtH97WrJW0fyui9rX",
+  "geographicLocation": {
+    "lat" : -33.918861,
+    "long" : 18.423300
+  },
+  "dateProposed": "2022-01-30",
+  "annualTarget": 1000,
+  "linkedResource": {
+    "id": "proposal",
+    "path": "proposal",
+    "rel": "detail",
+    "type": "iid:ResourceDescriptor",
+    "resourceFormat": "application/pdf",
+    "compression": "gzip",
+    "endpoint": "https://www.w3id.org/earth/artifacts/hydroelec.proposal.pdf.gzip",
+    "proof": {
+      "type": "iid:hash",
+      "stage": "raw",
+      "value": "asdrioqweindcuioqweroiasdcnuieasdnjcjasdkf",
+    }
+  },
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2022-01-30T03:50:55Z",
+    "proofValue": "z5SpZtDGGz5a89PJbQT2sgbRUiyyAGhhgjcf86aJHfYcfvPjxn6vej5na6kUzmw1jMAR9PJU9mowshQFFdGmDN14D",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:example:AAAAC3NzaC1lZDI1NTE5AAAAICwtd+9EJPeiBDh37Ffi6uJ6grYqtH97WrJW0fyui9rX#key-0"
+  }
+}
