@@ -3,6 +3,7 @@
 Artifacts that illustrate Earth Program use cases and solutions
 
 ## Renewable Energy Certificates
+
 These artifacts help realize the Renewable Energy Certificates Focal Use Case.
 
 ### Cryptographic Materials
@@ -52,7 +53,7 @@ That file is a fully formed VC describing the following metadata:
 * **dateProposed**: January 30, 2022
 * **annualTarget**: The expected annual electricity production of 1000 MWh
 
-It is signed by HydroElec.
+It is signed by HydroElec. (Or, it will be. Currently the proof is faked.)
 
 2. Certifier Credential
 3. Verifier Credential
