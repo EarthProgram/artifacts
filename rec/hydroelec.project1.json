@@ -5,7 +5,7 @@
     "https://unfccc.int.example.com/ns/2022/rec/v1",
   ],
   "id": "https://hydroelec.example.com/projects/1",
-  "type": "REC2022",
+  "type": "REC2022/Proposal",
   "producer": "did:example:AAAAC3NzaC1lZDI1NTE5AAAAICwtd+9EJPeiBDh37Ffi6uJ6grYqtH97WrJW0fyui9rX",
   "geographicLocation": {
     "lat" : -33.918861,
