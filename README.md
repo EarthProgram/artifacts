@@ -45,7 +45,7 @@ The public/private key pairs are Secp256k1 keys generated using [didkit](https:/
 
 1. Project Proposal
 
-This VC captures the automated metadata about the project and refers definitively for a descriptive PDF with additional details. [./rec/projects/hydroelec.project1.json](./rec/projects/hydroelec.project1.json)
+This VC captures the automated metadata about the project and refers definitively for a descriptive PDF with additional details. [./rec/credentials/hydroelec.project1.json](./rec/credentials/hydroelec.project1.json)
 
 That file is a fully formed VC describing the following metadata:
 * **producer**: HydroElec's DID for exercising control over this project
