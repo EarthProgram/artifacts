@@ -30,7 +30,7 @@ The public/private key pairs are Secp256k1 keys generated using [didkit](https:/
 
 * **UN Rec2022** (DOES THIS NEED TO BE CRYPTOGRAPHIC?)
   * Key pair [./rec/keys/un.rec2022.jwk](./rec/keys/un.rec2022.jwk)
-  * DID [./rec/dids/un.rec2022.did.json](./rec/dids/un.rec2022.did.json)
+  * DID document [./rec/dids/un.rec2022.did.json](./rec/dids/un.rec2022.did.json)
 
 * **Certifier** &mdash; A UN authorized project certifier. They review the project proposal from the producer and issue an REC2022 Certification verifiable credential.
   * Key pair [./rec/keys/certifier.jwk](./rec/keys/certifier.jwk)
