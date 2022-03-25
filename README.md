@@ -18,7 +18,7 @@ The public/private key pairs are Secp256k1 keys generated using [didkit](https:/
 
 * **Smart Meter 1** &mdash; The first of two electric meters that issue signed VCs as evidence of electricity production.
   * Key pair [./rec/keys/meter1.jwk](./rec/keys/meter1.jwk)
-  * DID [./rec/dids/meter1.did.json](./rec/dids/meter1.did.json)
+  * DID document [./rec/dids/meter1.did.json](./rec/dids/meter1.did.json)
 
 * **Smart Meter 2** &mdash; The second of two electric meters that issue signed VCs as evidence of electricity production.
   * Key pair [./rec/keys/meter2.jwk](./rec/keys/meter2.jwk)
