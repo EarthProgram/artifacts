@@ -14,7 +14,7 @@ The public/private key pairs are Secp256k1 keys generated using [didkit](https:/
 
 * **HydroElec** &mdash; The producer behind the proposed project.
   * Key pair [./rec/keys/hydroelec.jwk](./rec/keys/hydroelec.jwk)
-  * DID [./rec/dids/hydroelec.did.json](./rec/dids/hydroelec.did.json)
+  * DID document [./rec/dids/hydroelec.did.json](./rec/dids/hydroelec.did.json)
 
 * **Smart Meter 1** &mdash; The first of two electric meters that issue signed VCs as evidence of electricity production.
   * Key pair [./rec/keys/meter1.jwk](./rec/keys/meter1.jwk)
