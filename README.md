@@ -22,7 +22,7 @@ The public/private key pairs are Secp256k1 keys generated using [didkit](https:/
 
 * **Smart Meter 2** &mdash; The second of two electric meters that issue signed VCs as evidence of electricity production.
   * Key pair [./rec/keys/meter2.jwk](./rec/keys/meter2.jwk)
-  * DID [./rec/dids/meter2.did.json](./rec/dids/meter2.did.json)
+  * DID document [./rec/dids/meter2.did.json](./rec/dids/meter2.did.json)
 
 * **UN FCCC** &mdash; The issuing authority for REC2022 Renewable Energy Certificates.
   * Key pair [./rec/keys/unfccc.jwl](./rec/keys/unfccc.jwk)
