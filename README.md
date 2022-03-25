@@ -26,7 +26,7 @@ The public/private key pairs are Secp256k1 keys generated using [didkit](https:/
 
 * **UN FCCC** &mdash; The issuing authority for REC2022 Renewable Energy Certificates.
   * Key pair [./rec/keys/unfccc.jwl](./rec/keys/unfccc.jwk)
-  * DID [./rec/dids/unfccc.did.json](./rec/dids/unfccc.did.json)
+  * DID document [./rec/dids/unfccc.did.json](./rec/dids/unfccc.did.json)
 
 * **UN Rec2022** (DOES THIS NEED TO BE CRYPTOGRAPHIC?)
   * Key pair [./rec/keys/un.rec2022.jwk](./rec/keys/un.rec2022.jwk)
