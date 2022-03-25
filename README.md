@@ -10,7 +10,7 @@ These artifacts help realize the Renewable Energy Certificates Focal Use Case.
 
 Many of the identifiers used in this set of artifacts are DIDs based on cryptographic public/private keypairs. This allows the artifacts' identifiers to be created offline and secured using cryptographic signatures.
 
-The public/private key pairs are Secp256k1 keys generated using [didkit](https://spruceid.dev/docs/didkit/) and represented in [Json Web Key](https://datatracker.ietf.org/doc/html/rfc7517) format. The .jwk files contain both the public and private keys for each actor. From these keys a DID and associated DID Document has been generated using didkit.
+The public/private key pairs are Secp256k1 keys generated using [didkit](https://spruceid.dev/docs/didkit/) and represented in [Json Web Key](https://datatracker.ietf.org/doc/html/rfc7517) format. The .jwk files contain both the public and private keys for each actor. From these keys a DID and associated DID document has been generated using didkit.
 
 * **HydroElec** &mdash; The producer behind the proposed project.
   * Key pair [./rec/keys/hydroelec.jwk](./rec/keys/hydroelec.jwk)
