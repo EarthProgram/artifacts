@@ -1,0 +1,32 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    {
+      "EcdsaSecp256k1VerificationKey2019": "https://w3id.org/security#EcdsaSecp256k1VerificationKey2019",
+      "publicKeyJwk": {
+        "@id": "https://w3id.org/security#publicKeyJwk",
+        "@type": "@json"
+      }
+    }
+  ],
+  "id": "did:key:zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq",
+  "verificationMethod": [
+    {
+      "id": "did:key:zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq#zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "controller": "did:key:zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "secp256k1",
+        "x": "UyLz3FWAd5zIN7DulIXOqPy3uVCfDFWzxQufjo6bvKo",
+        "y": "iqt8lR9HbYoI_j09_Z01eTFpck_iUwRb6fpgoGU-vj4"
+      }
+    }
+  ],
+  "authentication": [
+    "did:key:zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq#zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq"
+  ],
+  "assertionMethod": [
+    "did:key:zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq#zQ3shT1KWQc6o3qrC3PPnig2twVet2ir618NUw9s8Q5KXrrLq"
+  ]
+}
