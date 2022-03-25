@@ -70,7 +70,7 @@ The file [./rec/keys/hydroelec.jwk](./rec/hydroelec.ed25519) is a representation
 
 ```did:key:zQ3shPm1156YHd3pzvhz8BMtZPT9LnTxtGyFBnm8tzJmjnBWD```
 
-When this DID is resolved it returns the DID Document found in [./rec/dids/hydroelec.did.json](./rec/dids/hydroelec.did.json)
+When this DID is resolved it returns the DID document found in [./rec/dids/hydroelec.did.json](./rec/dids/hydroelec.did.json)
 
 2. UNFCCC
 3. Certifier
