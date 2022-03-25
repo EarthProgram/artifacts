@@ -34,7 +34,7 @@ The public/private key pairs are Secp256k1 keys generated using [didkit](https:/
 
 * **Certifier** &mdash; A UN authorized project certifier. They review the project proposal from the producer and issue an REC2022 Certification verifiable credential.
   * Key pair [./rec/keys/certifier.jwk](./rec/keys/certifier.jwk)
-  * DID [./rec/dids/certifier.did.json](./rec/dids/certifier.did.json)
+  * DID document [./rec/dids/certifier.did.json](./rec/dids/certifier.did.json)
 
 * **Verifier** &mdash; A UN authorized project verifier. They review the project on-site and issue an REC2022 Verification verifiable credential, based the propsoal, the REC2022 Certification, and the evidence produced by the Project's smart meters.
   * Key pair [./rec/keys/verifier.jwk](./rec/keys/verifier.jwk)
